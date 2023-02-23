@@ -1,0 +1,9 @@
+Plataforma que pertmite desenvolver programas ultilizando a linguagem de programação. 
+
+Ultilizada em app, solftware e app de big data.
+
+*Tudo nela é OBJETO, rever paradigma do objeto.*
+
+IDE ou Integrated Development Environment (Ambiente de Desenvolvimento Integrado) é um software que auxilia no desenvolvimento de aplicações. Desta forma, combinam ferramentas comuns em uma única interface gráfica do usuário (GUI).
+
+Traduzido de inglês-O IntelliJ IDEA é um ambiente de desenvolvimento integrado escrito em Java para desenvolver software de computador escrito em Java, Kotlin, Groovy e outras linguagens baseadas em JVM.
