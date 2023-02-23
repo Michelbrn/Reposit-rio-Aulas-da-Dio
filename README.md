@@ -1,2 +1,2 @@
 # Repositorio-Aulas-da-Dio
-Links úteis, exércios e anatoções do Bootcamo Dio/Pan
+Links úteis e anatoções do Bootcamo Dio/Pan.
