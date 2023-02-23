@@ -1,0 +1,5 @@
+Git é um sistema de controle de versões distribuído, usado principalmente no desenvolvimento de software, mas pode ser usado para registrar o histórico de edições de qualquer tipo de arquivo. Nele é possivél abrir o Gitbash onde poderemos alterar diretório e seus arquivos.
+
+
+principais comandos do git:
+https://www.freecodecamp.org/portuguese/news/10-comandos-do-git-que-todo-desenvolvedor-deveria-conhecer/

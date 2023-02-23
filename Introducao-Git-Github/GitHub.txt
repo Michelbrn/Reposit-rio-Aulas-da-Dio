@@ -1,0 +1,10 @@
+GitHub é uma plataforma de hospedagem de código-fonte e arquivos com controle de versão usando o Git. Ele permite que programadores, utilitários ou qualquer usuário cadastrado na plataforma contribuam em projetos privados e/ou Open Source de qualquer lugar do mundo.
+
+Ferramenta ideial para montar e vizibilizar projetos no meio acadêmico e profissional.
+
+Nela podemos criar repositores, chaves (ssh), token e fazer a edição destas.
+
+Fácil para poder trabalhar em equipe.
+
+Meu Github: 
+https://github.com/Michelbrn

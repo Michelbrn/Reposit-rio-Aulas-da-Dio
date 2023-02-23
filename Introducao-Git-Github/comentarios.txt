@@ -1,0 +1,10 @@
+maiores dificuldades:
+
+- entender como editar no pc e commitar para o github.
+- tranformar arquivo txt em md.
+
+
+Pontos positivos:
+
+- o git bash indica os erros e a possível maneira de corrigi-los.
+- montar um portifólio no github.

@@ -1,0 +1,5 @@
+Markdown é frequentemente usado para formatar arquivos README, para escrever mensagens em fóruns de discussão online e para criar rich text usando um editor de texto simples.
+
+sintaxe md: https://www.markdownguide.org/basic-syntax/
+
+Pode ser feito edições no arquivo via GitHub.
